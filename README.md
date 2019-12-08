@@ -28,4 +28,4 @@ Simply type `python3 tiny.py FILENAME` in your terminal.
 # File
 
  - `tiny.py` 	The main interpreter program in Python 3.
- - `tests`		The directory containing the test cases along with the input/expected output.
+ - `tests`		The directory containing the test cases along with the input/expected output provided by Prof. Charlie McDowell.
