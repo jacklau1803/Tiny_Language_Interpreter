@@ -1,0 +1,8 @@
+let x = 2
+let b = 8
+input c
+input d
+print x
+print b
+print c
+print d

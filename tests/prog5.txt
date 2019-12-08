@@ -1,0 +1,22 @@
+start: print "Compute Mi to Km(1) or Km to Mi(2). (0) to exit"
+print "Which do you want to convert? (enter 1 or 2): "
+input key
+
+if key == 0 goto exit
+
+if key == 2 goto KmMi
+MiKm: print "Enter Miles: "
+input miles
+let miConv = miles * 1.60934
+print miles , "miles =" , miConv , "kilometers"
+print ""
+if 0 == 0 goto start
+
+KmMi: print "Enter Kilometers: "
+input kms
+let kmConv = kms / 1.60934
+print kms , "kilometers =" , kmConv , "miles"
+print ""
+if 0 == 0 goto start
+
+exit: print "Thank you for using TL distance converter"
