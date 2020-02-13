@@ -27,8 +27,9 @@ Python 3 or scala must be installed.
 
 # Usage
 
-Python 3: Simply type `python3 TLI.py FILENAME` in your terminal.
-Scala: Simply type `scala TLI FILENAME` in your terminal.
+**Python**: Simply type `python3 TLI.py FILENAME` in your terminal.
+
+**Scala**: Simply type `scala TLI FILENAME` in your terminal.
 
 # File
 
